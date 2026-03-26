@@ -7,5 +7,5 @@
 
 ---
 
-## SRS (Software Requirements Specification)
+## SRS
 [SRS документ](./TouchUpSmartSRS.pdf)
