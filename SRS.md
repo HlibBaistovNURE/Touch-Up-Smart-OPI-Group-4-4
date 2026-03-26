@@ -8,4 +8,4 @@
 ---
 
 ## SRS (Software Requirements Specification)
-👉 [Відкрити документ SRS](./TouchUpSmartSRS.pdf)
+[SRS документ](./TouchUpSmartSRS.pdf)
